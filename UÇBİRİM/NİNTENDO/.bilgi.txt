@@ -6,8 +6,8 @@ Nintendo Açarı (NA) — Nintendo Switch (NS)
 
 Nintendo OyunDördülbiçmesi (NOD) — Nintendo GameCube (NGC)
 
-Nintendo BİYİ (NB) — Nintendo Wii (NW)
-Nintendo BİYİ S (NBS) — Nintendo Wii U (NWU)
+Nintendo Bİ (NB) — Nintendo Wii (NW)
+Nintendo Bİ S (NBS) — Nintendo Wii U (NWU)
 
 Nintendo İkiliYüzeç (NİY) — Nintendo DualScreen (NDS)
 Nintendo 3İkiliYüzeç (N3İY) — Nintendo 3DualScreen (N3DS)
